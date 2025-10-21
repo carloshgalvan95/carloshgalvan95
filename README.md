@@ -1,62 +1,55 @@
-# Hi there, I’m Carlos 👋  
-**Applied Data Scientist & Petroleum Reservoir Engineer**  
-MSc Candidate in Applied Artificial Intelligence | Python · AWS · ML/AI in Energy  
+<!-- ──────────────────────────────────────────────────────────- -->
+<h1 align="center">👋 Hi, I’m Carlos Galván</h1>
+<h3 align="center">Petroleum Reservoir Engineer • Applied Data Scientist • MSc (Applied AI) Candidate</h3>
 
 ---
 
-## 🔍 About Me  
-- I hold a degree in Petroleum Engineering and currently work as a reservoir engineer applying advanced data science to hydrocarbon systems.  
-- I’m pursuing a Master’s in Applied AI to deepen my expertise in machine-learning, deep-learning and analytics for subsurface and production workflows.  
-- I build data-driven solutions: from well-log and production data ingestion, to predictive modelling and cloud-native deployment.  
-- My technical stack highlights: **Python (Pandas, NumPy, scikit-learn, PyTorch/TensorFlow)** · **AWS (S3, Lambda, SageMaker, Glue, EC2)** · **SQL/NoSQL**, data-pipelines, and domain tools (reservoir simulation, decline-curve analytics).  
-- I’m passionate about bridging the gap between traditional petroleum engineering and modern AI/data-engineering practices.
+### 🔧 What I do  
+I combine **reservoir engineering**, **data engineering** and **machine learning** to extract value from subsurface & production datasets.  
+Currently, I’m driving analytics-led solutions at an upstream company and deepening my expertise with a master’s in Applied Artificial Intelligence.
 
 ---
 
-## 💡 What I’m Working On  
-- 🛢️ A production-data pipeline on AWS ingesting well-log + sensor data, applying anomaly detection and forecasting production decline.  
-- 🎓 Master’s thesis: Using deep-learning to classify facies and predict permeability from well log + core data in carbonate reservoirs.  
-- 🔧 Open-source project: “ReservoirDataPy” — a Python library to standardise reservoir data ingestion, cleaning & feature-engineering.  
-- 📘 Blog series (coming soon): *“AI for Petroleum Reservoir Engineering”* — walkthroughs on combining ML with reservoir simulation workflows.
+### 🚀 My Focus Areas  
+- Designing ETL pipelines, leveraging AWS services (S3, Glue, Lambda, SageMaker) to integrate well logs, sensor data and production metrics.  
+- Developing ML/AI models for reservoir performance forecasting, facies classification and production optimization.  
+- Bridging the traditional petroleum domain with scalable data-engineering workflows and cloud infrastructure.  
+- Sharing knowledge: building libraries & tooling for reservoir data science, and documenting solutions for reusable workflows.
 
 ---
 
-## 🛠 My Tech Stack  
-
-| Area               | Technologies                                    |
-|--------------------|-------------------------------------------------|
-| Programming        | Python, MATLAB (legacy), R                      |
-| Data Engineering   | AWS S3, Lambda, Glue, EC2, Databricks           |
-| Machine Learning   | scikit-learn, TensorFlow, PyTorch               |
-| Reservoir Engineering | CMG, Petrel, Eclipse, decline-curve analytics    |
-| Databases & DevOps | PostgreSQL, DynamoDB, Docker, GitHub Actions    |
+### 🛠 Tech Stack  
+**Languages & Frameworks:** Python · SQL · PySpark · TensorFlow · PyTorch  
+**Data Engineering & Cloud:** AWS (Glue, SageMaker, Redshift, Lambda, S3, Step Functions) · Airflow · DBT · Docker · GitHub Actions  
+**Domain & Visualization:** Reservoir simulation tools · well-log analytics · Matplotlib · Seaborn · Tableau · Power BI  
+**Databases:** PostgreSQL · MySQL · DynamoDB · MongoDB  
+**Communication:** Spanish (native) · English (C2 – Cambridge CAE with Merit)  
 
 ---
 
-## 🚀 Featured Projects  
+### 📌 Selected Projects  
+| Project | Description |
+|---------|-------------|
+| **ReservoirDataPy** | A Python library for standardizing reservoir data ingestion, cleaning & feature-engineering workflows. |
+| **AWS-ProdForecast Pipeline** | End-to-end AWS pipeline for ingesting production data, training forecasting models and deploying alerts. |
+| **Facies-Classifier-DL** | Deep-learning solution on well-log & imagery data to classify facies and estimate permeability in carbonate reservoirs. |
+| **Pricing-Data-Engineering (KAVAK)** | Scalable ETL architecture and CI/CD for vehicle-pricing data — example of my data-engineering workflow in practice. |
 
-*Check out my pinned repositories for more details.*
+(You can explore these repositories from my profile. Feel free to star 🟊 the ones you find interesting.)
 
 ---
 
-## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CarlosGalvan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/carloshgalvan95)  
-✉️ carloshgalvan95@gmail.com
+### 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos Galván-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/carloshgalvan95)  
+[![Email](https://img.shields.io/badge/Email-carloshgalvan95%40gmail.com-D14836?style=flat&logo=gmail)](mailto:carloshgalvan95@gmail.com)  
+🔗 Check out my pinned repos on my GitHub profile for full details.
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Highlights  
 ![Carlos’ GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshgalvan95&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshgalvan95&layout=compact&theme=dark)
 
 ---
 
-## 🎯 What I’m Looking For  
-- Collaborations on open-source projects at the intersection of AI + energy.  
-- Data engineering / ML project opportunities in upstream, midstream or downstream that leverage AWS and advanced analytics.  
-- Mentorship in deploying production-grade ML systems in the petroleum domain.
-
----
-
-Thanks for stopping by! I’m always up for a chat about reservoir engineering, AI or data-pipelines.  
-
+> “Transforming reservoir data into operational insights through AI, engineering and cloud-scale pipelines.”  
