@@ -17,47 +17,71 @@ Currently, I’m driving analytics-led solutions @PEMEX and deepening my experti
 
 ---
 
-### 🛠 Tech Stack  
+### 💻 Technical Skills  
 
-**Languages & Frameworks**  
+**Programming Languages & Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![API](https://img.shields.io/badge/API_Interactions-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Process-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF4D00?style=for-the-badge&logo=bruno&logoColor=white)
+
+---
+
+**Data Science & Machine Learning**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-5A20CB?style=for-the-badge&logo=ai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-0E86D4?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-20C997?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
+**Databases**  
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 **Data Engineering & Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-4053D6?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redshift Spectrum](https://img.shields.io/badge/Redshift_Spectrum-4053D6?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Domain & Visualization**  
-![Reservoir Simulation](https://img.shields.io/badge/Reservoir%20Simulation-004B87?style=for-the-badge&logo=databricks&logoColor=white)
-![Well Log Analytics](https://img.shields.io/badge/Well%20Log%20Analytics-6A0DAD?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white)
+---
+
+**Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Communication**  
-![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
 
 
 ---
@@ -67,7 +91,8 @@ Currently, I’m driving analytics-led solutions @PEMEX and deepening my experti
 ---
 
 ### 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos Galván-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/carloshgalvan95)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Galván-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshgalvan95)
+
 [![Email](https://img.shields.io/badge/Email-carloshgalvan95%40gmail.com-D14836?style=flat&logo=gmail)](mailto:carloshgalvan95@gmail.com)  
 🔗 Check out my pinned repos on my GitHub profile for full details.
 
