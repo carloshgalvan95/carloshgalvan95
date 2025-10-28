@@ -98,10 +98,4 @@ Currently, I’m driving analytics-led solutions @PEMEX and deepening my experti
 
 ---
 
-### 📊 GitHub Highlights  
-![Carlos’ GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshgalvan95&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshgalvan95&layout=compact&theme=dark)
-
----
-
 > “Transforming reservoir data into operational insights through AI, engineering and cloud-scale pipelines.”  
