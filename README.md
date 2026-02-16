@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos Galván! 👋
 
-### 🛢️ Petroleum Engineer turned Data Scientist & AI Engineer
+### Petroleum Engineer turned Data Scientist & AI Engineer
 **M.Sc. Applied Artificial Intelligence Candidate** | **Based in Villahermosa, Mexico**
 
 I am a specialized Data Scientist bridging the gap between **Industrial Engineering** and **Advanced AI**. Currently, I work at **PEMEX**, developing production-grade RAG systems and predictive models for reservoir engineering, while pursuing my Master's in Applied AI at Tecnológico de Monterrey.
@@ -9,7 +9,7 @@ Previously, I engineered pricing algorithms and data pipelines at **KAVAK**, con
 
 ---
 
-### 🚀 Technical Stack
+### Technical Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -74,22 +74,22 @@ Previously, I engineered pricing algorithms and data pipelines at **KAVAK**, con
 
 ---
 
-### 💼 Professional Work Highlights
+### Professional Work Highlights
 
 *While much of my work is proprietary, here are some key systems I have engineered:*
 
-#### 🏢 **PEMEX (Current)**
+#### **PEMEX (Current)**
 - **RAG System for Petroleum Reserves:** Engineered a hybrid retrieval architecture (ChromaDB + BM25) to process technical engineering documents with semantic search, significantly improving information accessibility for reservoir engineers.
 - **Water Breakthrough Prediction:** Built a discrete-time survival model (Logistic Regression + 32 engineered features) to predict water breakthrough events, enabling proactive intervention for 3 critical wells.
 - **ML Production Ops:** Automated the classification of 140,000+ daily oil well movements with 96% accuracy using LinearSVC.
 
-#### 🦄 **KAVAK**
+#### **KAVAK**
 - **Inventory Optimization:** Recovered **$104M+ MXN** in business value by identifying negative-margin inventory through predictive modeling.
 - **Pricing Engine:** Maintained and optimized AWS-based pricing algorithms (Glue, Lambda, Airflow) processing millions of vehicle valuations with 99%+ uptime.
 
 ---
 
-### 🛠️ Open Source & Personal Projects
+### Open Source & Personal Projects
 
 You can find my public analysis and tools in my repositories below:
 
@@ -100,7 +100,7 @@ You can find my public analysis and tools in my repositories below:
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/carloshgalvan/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
