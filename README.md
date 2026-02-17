@@ -19,7 +19,7 @@ Previously, I engineered pricing algorithms and data pipelines at **KAVAK**, con
 ![VBA](https://img.shields.io/badge/-VBA-47A141?style=flat&logo=microsoft-excel&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-**Artificial Intelligence & GenAI**
+**Artificial Intelligence & GenAI**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
@@ -30,6 +30,12 @@ Previously, I engineered pricing algorithms and data pipelines at **KAVAK**, con
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-121212?style=flat&logo=llama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-FF4B4B?style=flat&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-0A66C2?style=flat)
+![Agentic%20AI](https://img.shields.io/badge/-Agentic%20AI-6A0DAD?style=flat)
+![Fine--Tuning](https://img.shields.io/badge/-Fine--Tuning-008080?style=flat)
+![LoRA](https://img.shields.io/badge/-LoRA-2E8B57?style=flat)
 
 **Vector Databases & Retrieval**
 ![Pinecone](https://img.shields.io/badge/-Pinecone-131F2D?style=flat&logo=pinecone&logoColor=white)
