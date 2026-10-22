@@ -23,22 +23,47 @@ Looking at roles in **Data Engineering / Senior DE / Data Platform**, and AI-adj
 
 ---
 
-## Selected results
+## Experience
+
+### PEMEX · Machine Learning Engineer (Mar 2025 - Present)
+I own the model pipeline end to end: ingestion, databases, CI/CD, MLOps, repos, monitoring and models in production. Reservoir Engineering from Mar 2025 to Jul 2026; Gerencia de Desarrollo e Innovación Tecnológica since Aug 2026.
+
+**Data Engineering**
+- Owned three Prefect-orchestrated ETL pipelines for daily industrial data feeds. Parallel task execution cut runtime 70%, from 68 to 10 minutes, and removed manual intervention.
+- Built data quality and reconciliation steps (self-healing fuzzy matching for well IDs) so ML and operations users receive consistent daily feeds.
+- Built the SQL and Python production path for about 140,000 daily records that feed the classifier below, and curated datasets from 16 years of production history across 33 wells for forecasting work.
+
+**Data Science**
+- Built a TF-IDF + LinearSVC classifier for about 140,000 daily well operation records: 96% accuracy across 44 operational concepts, cutting processing from hours to minutes.
+- Ran model comparison and held-out validation across classical ML and deep learning candidates and documented results for engineering stakeholders.
+- Feature engineering on production time series and operational text.
+
+**AI & ML**
+- Research paper (PEMEX project TT-632464): "Application of ML, Deep Learning, and PINNs for Early Water Breakthrough Prediction in Naturally Fractured Reservoirs". Ensemble of XGBoost, LightGBM, BiLSTM, Transformer and PINNs for 3 high-value wells; the ensemble predicted breakthrough within 2 days of the actual event and the Transformer alone had a median error of 23 days.
+- Built a production RAG system for Spanish petroleum engineering documents, used by technical teams: hybrid retrieval (ChromaDB + BM25), conversation memory, and automated evaluation tracking Hit Rate, MRR and Precision@k.
+
+*Stack: Python, SQL, Prefect, Docker, scikit-learn, XGBoost, LightGBM, PyTorch, ChromaDB*
 
 ### Kavak · Pricing Data Engineer (Aug 2022 - Mar 2025)
-- Ran AWS pricing pipelines (Glue + Step Functions + Airflow) for **millions of vehicle valuations**.
-- Cut deploy time ~**60%** with GitLab CI/CD for feature versioning and model/pipeline releases.
-- Tuned ETL paths on Athena / Redshift Spectrum / SageMaker for cost and iteration speed.
+Data engineering for Kavak's marketplace pricing algorithms.
 
-### Kavak · Senior Pricing Analyst (Feb 2021 - Aug 2022)
-- Inventory loss-mitigation work that recovered **$104M MXN** from negative-margin stock and blocked ~**$1M MXN/month** in further losses.
-- Automated SQL / Python / Tableau reporting (~**80%** less manual reporting time).
+- Owned AWS pricing algorithm pipelines built on AWS Glue jobs, Step Functions state machines and Apache Airflow, processing millions of vehicle valuations.
+- Built GitLab CI/CD for feature versioning and pipeline and model deployment, reducing deployment time about 60% and speeding up iteration on pricing algorithms.
+- Optimized SQL-heavy ETL joins and transforms on Amazon Athena and Redshift Spectrum that feed pricing features; SageMaker paths for model-adjacent transforms.
+- Operated Dockerized batch jobs for pricing, BI and data science consumers with reliable daily feature freshness, plus reusable transform components for feature delivery.
 
-### PEMEX · Data Scientist, Reservoir Engineering (Mar 2025 - Present)
-- Production **RAG** over technical engineering docs (ChromaDB + BM25 hybrid, Spanish semantic search).
-- Ops classifier on ~**140,000** daily movement records → **96%** accuracy across 44 concepts (hours → minutes).
-- Prefect ETL: three pipelines from **68 → 10 minutes** (~70%) via parallel execution and fuzzy ID matching.
-- Water-breakthrough research framework (tree models, sequence models, Transformers, PINNs) on multi-year production history; event timing within ~2 days on held-out wells.
+*Stack: Python, SQL, AWS Glue, AWS Step Functions, Apache Airflow, Amazon Athena, Amazon Redshift Spectrum, Amazon SageMaker, Docker, GitLab CI/CD*
+
+### Kavak · Senior Pricing Analyst, Global Pricing & Strategy (Feb 2021 - Aug 2022)
+Pricing and inventory analytics for Kavak's Global Pricing & Strategy team.
+
+- Built early-warning analytics on negative-margin inventory that recovered $104M MXN and prevented about $1M MXN in monthly losses by flagging at-risk vehicles early.
+- Developed predictive models using market price elasticity to guide purchasing and sales decisions, increasing average sales margins by 20% while reducing repair expenses through better vehicle quality standards.
+- Designed and standardized weekly inventory, sales and purchase KPIs with the Data Science and Finance teams.
+- Automated KPI reporting with SQL, Python (SQLAlchemy) and Tableau, cutting manual reporting about 80%.
+- Built forecasting models for purchases, sales and gross profit to support pricing decisions.
+
+*Stack: SQL, Python, SQLAlchemy, Tableau*
 
 ---
 
