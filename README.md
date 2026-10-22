@@ -1,25 +1,47 @@
-# Carlos Galvan
+<p align="center">
+  <img src="assets/banner.png" alt="From raw data to production ML" width="100%" />
+</p>
 
-**Data Engineer / Applied AI** · Villahermosa, Mexico (open to Remote / Hybrid, relocate MX + abroad)  
-M.Sc. Applied Artificial Intelligence · Tecnológico de Monterrey (in progress)  
-English C2 (Cambridge CAE) · Spanish native
+<h1 align="center">Carlos Galvan</h1>
+<h3 align="center">Machine Learning Engineer | Data Engineering, Data Science | PEMEX | ex Kavak | M.Sc. Applied AI (in progress) @ Tec de Monterrey</h3>
+
+<p align="center">
+  Villahermosa, Mexico · Open to Remote / Hybrid, relocate MX + abroad · English C2 (Cambridge CAE) · Spanish native
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carloshgalvan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:carloshgalvan95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/carloshgalvan95/MNA"><img src="https://img.shields.io/badge/MSc%20repo-181717?logo=github&logoColor=white" alt="MSc repo" /></a>
+</p>
 
 I build and operate production data pipelines and ML systems end to end: ingest, transform, serve, monitor. Most of my recent work sits at the intersection of **AWS data platforms**, **SQL/Spark-class processing**, and **applied ML / retrieval** when the product needs it.
 
-[LinkedIn](https://www.linkedin.com/in/carloshgalvan/) · [Email](mailto:carloshgalvan95@gmail.com) · [MSc repo](https://github.com/carloshgalvan95/MNA)
-
 ---
 
-## Focus
+## Stack
 
-| Area | What I actually ship |
-| --- | --- |
-| Data engineering | AWS Glue, Step Functions, Airflow/Prefect, Athena, Redshift Spectrum, Docker, GitLab CI/CD |
-| Processing | Python, SQL, PySpark / Spark, Databricks (working use), dbt where modeling fits |
-| Serving / APIs | FastAPI, REST, gRPC |
-| Applied ML / GenAI | Classical ML in production, RAG (hybrid retrieval + citations), LLM tooling with human review gates |
-
-Looking at roles in **Data Engineering / Senior DE / Data Platform**, and AI-adjacent seats where pipelines, quality, and reliability matter as much as the model.
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,gitlab,fastapi,pytorch,sklearn" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-070E10?logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redshift-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Step%20Functions-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+</p>
 
 ---
 
@@ -64,20 +86,6 @@ Pricing and inventory analytics for Kavak's Global Pricing & Strategy team.
 - Built forecasting models for purchases, sales and gross profit to support pricing decisions.
 
 *Stack: SQL, Python, SQLAlchemy, Tableau*
-
----
-
-## Stack (short list)
-
-```text
-Python · SQL · PySpark/Spark · FastAPI
-AWS: Glue · Athena · Redshift Spectrum · Step Functions · SageMaker · Lambda
-Orchestration: Airflow · Prefect · GitLab CI/CD
-Databricks · dbt · Docker · Kafka (concepts + listed use)
-RAG: LangChain / LlamaIndex patterns · Chroma · embeddings · eval/review habits
-Postgres · MySQL · SQL Server · MongoDB
-Power BI · Tableau
-```
 
 ---
 
