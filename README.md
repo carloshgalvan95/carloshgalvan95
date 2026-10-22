@@ -25,16 +25,16 @@ Looking at roles in **Data Engineering / Senior DE / Data Platform**, and AI-adj
 
 ## Selected results
 
-### Kavak · Pricing Data Engineer (2022–2025)
+### Kavak · Pricing Data Engineer (Aug 2022 - Mar 2025)
 - Ran AWS pricing pipelines (Glue + Step Functions + Airflow) for **millions of vehicle valuations**.
 - Cut deploy time ~**60%** with GitLab CI/CD for feature versioning and model/pipeline releases.
 - Tuned ETL paths on Athena / Redshift Spectrum / SageMaker for cost and iteration speed.
 
-### Kavak · Senior Pricing Analyst (2021–2022)
+### Kavak · Senior Pricing Analyst (Feb 2021 - Aug 2022)
 - Inventory loss-mitigation work that recovered **$104M MXN** from negative-margin stock and blocked ~**$1M MXN/month** in further losses.
 - Automated SQL / Python / Tableau reporting (~**80%** less manual reporting time).
 
-### PEMEX · Data Scientist, Reservoir Engineering (2025–present)
+### PEMEX · Data Scientist, Reservoir Engineering (Mar 2025 - Present)
 - Production **RAG** over technical engineering docs (ChromaDB + BM25 hybrid, Spanish semantic search).
 - Ops classifier on ~**140,000** daily movement records → **96%** accuracy across 44 concepts (hours → minutes).
 - Prefect ETL: three pipelines from **68 → 10 minutes** (~70%) via parallel execution and fuzzy ID matching.
