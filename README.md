@@ -34,6 +34,8 @@ I build and operate production data pipelines and ML systems end to end: ingest,
   <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A" />
+  <img src="https://img.shields.io/badge/Bruno-F4AA41" />
 </p>
 
 <p align="center">
@@ -65,6 +67,7 @@ I build and operate production data pipelines and ML systems end to end: ingest,
   <img src="https://img.shields.io/badge/ChromaDB-FF6446" />
   <img src="https://img.shields.io/badge/Pinecone-000000" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C" />
+  <img src="https://img.shields.io/badge/Weaviate-00C29A" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white" />
 </p>
 
