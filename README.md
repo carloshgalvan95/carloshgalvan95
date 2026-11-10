@@ -138,9 +138,9 @@ Coursework and public MSc materials: [github.com/carloshgalvan95/MNA](https://gi
 
 | Repo | Why it exists |
 | --- | --- |
-| [endzone-mlops](https://github.com/carloshgalvan95/endzone-mlops) | NFL pregame win-probability pipeline: Databricks + dbt marts, MLflow tracking and registry, GitHub Actions CI and a weekly [live page](https://carloshgalvan95.github.io/endzone-mlops/) with a public track record |
-| [bch-balances-dbt](https://github.com/carloshgalvan95/bch-balances-dbt) | dbt on BigQuery: Bitcoin Cash address balances from the public dataset, partition-pruned window, data tests, keyless CI with Workload Identity Federation |
-| [bch-balances-terraform](https://github.com/carloshgalvan95/bch-balances-terraform) | Terraform for the GCP side: project, BigQuery datasets, least-privilege service account and GitHub OIDC federation, no manual resources |
+| [endzone-mlops](https://github.com/carloshgalvan95/endzone-mlops) | End-to-end MLOps on Databricks Free Edition: nflverse ingest, dbt, MLflow and Unity Catalog registry, with GitHub Actions publishing weekly NFL win probabilities to a [public page](https://carloshgalvan95.github.io/endzone-mlops/), benchmarked honestly against the betting market |
+| [bch-balances-dbt](https://github.com/carloshgalvan95/bch-balances-dbt) | dbt on BigQuery that turns the public Bitcoin Cash transactions dataset into a per-address balance mart for a 3-month window, with data tests, partition pruning and keyless CI via Workload Identity Federation |
+| [bch-balances-terraform](https://github.com/carloshgalvan95/bch-balances-terraform) | Terraform that creates a GCP project with BigQuery datasets, a least-privilege dbt service account and GitHub Workload Identity Federation, so CI runs without stored keys |
 | [MNA](https://github.com/carloshgalvan95/MNA) | Applied AI master's work |
 | [personal_finance_gui](https://github.com/carloshgalvan95/personal_finance_gui) | Small TypeScript finance tracker |
 | [Square_Meter_Value_Real_Estate](https://github.com/carloshgalvan95/Square_Meter_Value_Real_Estate) | Feature analysis for price / m² |
