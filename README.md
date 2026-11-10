@@ -22,23 +22,54 @@ I build and operate production data pipelines and ML systems end to end: ingest,
 ## Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,gitlab,fastapi,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=py,js,postgres,mysql,mongodb,docker,kubernetes,aws,gcp,terraform,gitlab,githubactions,git,fastapi,flask,pytorch,tensorflow,sklearn,kafka&perline=10" />
 </p>
+
 <p align="center">
+  <b>Data engineering</b><br/>
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Prefect-070E10?logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" />
+</p>
+
+<p align="center">
+  <b>Cloud and warehouse</b><br/>
   <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redshift-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redshift%20Spectrum-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Step%20Functions-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>ML and MLOps</b><br/>
   <img src="https://img.shields.io/badge/XGBoost-189FDD" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>GenAI and NLP</b><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6446" />
+  <img src="https://img.shields.io/badge/Pinecone-000000" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>BI</b><br/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
 </p>
