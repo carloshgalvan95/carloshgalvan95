@@ -91,7 +91,7 @@ Pricing and inventory analytics for Kavak's Global Pricing & Strategy team.
 
 ## Education
 
-- **M.Sc. Applied Artificial Intelligence** · Tecnológico de Monterrey · 2025–2027 (current)  
+- **M.Sc. Applied Artificial Intelligence** · Tecnológico de Monterrey · 2025 - 2027 (current)  
   Recent coursework includes Big Data, NLP, MLOps (TC5061), software design (TC5062).
 - **Certificate, Data Analytics and Visualization** · Tecnológico de Monterrey · 2022
 - **B.S. Petroleum Engineering** · Universidad Olmeca · 2018
